@@ -1,0 +1,59 @@
+
+/* Custom styles for the movie carousel */
+.carousel-wrapper {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+.movie-carousel {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    padding: 10px 0;
+}
+
+.movie-card {
+    flex: 0 0 auto;
+    width: 200px;
+    margin: 5px;
+    text-align: center;
+}
+
+.movie-poster {
+    width: 100%;
+    height: auto;
+}
+
+.carousel-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.carousel-btn.right {
+    right: 0;
+}
+
+.carousel-btn.left {
+    left: 0;
+}
+
+/* Hide scroll bar */
+.movie-carousel::-webkit-scrollbar {
+    display: none;
+}
+
+/* Ensure the buttons fit the size of the movie poster */
+.btn-custom {
+    font-size: 0.9rem;
+    padding: 0.5rem 0.75rem;
+    width: 100%; /* Full width to match the movie card width */
+    margin-top: 10px;
+}

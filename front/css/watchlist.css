@@ -1,0 +1,39 @@
+body {
+    background-color: #121212;
+    font-family: 'Roboto', sans-serif;
+    color: #e0e0e0;
+}
+h1, h2 {
+    color: #ffffff;
+    text-align: center;
+}
+.container {
+    margin-top: 30px;
+}
+.btn-danger {
+    background-color: #dc3545; /* Red color for remove button */
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-weight: bold;
+}
+.btn-danger:hover {
+    background-color: #c82333; /* Darker red on hover */
+}
+.btn-primary {
+    background-color: #007bff; 
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-weight: bold;
+}
+.btn-primary:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+/* Add responsive styles */
+@media (max-width: 768px) {
+    .col-md-3 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}

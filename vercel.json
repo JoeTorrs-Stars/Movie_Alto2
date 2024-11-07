@@ -1,0 +1,16 @@
+{
+    "functions": {
+        "api/*.php": {
+            "runtime": "vercel-php@0.6.0"
+        },
+        "api/MovieAlto": {
+            "runtime": "nodejs18.x"
+        },
+        "api/config": {
+            "runtime": "nodejs18.x"
+        },
+        "api/set": {
+            "runtime": "nodejs18.x"
+        }
+    }
+}

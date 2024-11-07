@@ -1,0 +1,24 @@
+.star-rating {
+    display: flex;
+    font-size: 2rem;
+}
+
+.star {
+    color: #ccc; /* Default color for unselected stars */
+    cursor: pointer;
+    margin-right: 5px;
+    font-size: 2rem;
+    transition: color 0.2s ease-in-out;
+}
+
+.star::before {
+    content: '\2605'; /* Unicode star symbol */
+}
+
+.star.selected {
+    color: #f39c12; /* Color for selected stars */
+}
+
+.star:hover {
+    color: #f39c12; /* Color for hovered stars */
+}

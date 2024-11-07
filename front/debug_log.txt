@@ -1,0 +1,145 @@
+Review text received: 'This
+Review text received: 'This
+Review text received: 'This
+Review text received: 'This
+Review text received: 'Wow
+Review text received: 'awesome
+Review text received: 'X
+Review text received: 'just
+Review text received: 'Great
+Review text received: 'Great
+Review text received: 'Awesome!@'
+Raw output: negative,0.0
+
+Sentiment Label: negative, Compound Score: 0.0
+Raw output: negative,0.0
+
+Sentiment Label: negative, Compound Score: 0.0
+Raw output: positive,0.6239
+
+Sentiment Label: positive, Compound Score: 0.6239
+Raw output: positive,0.6239
+
+Sentiment Label: positive, Compound Score: 0.6239
+Raw output: negative,0.0
+
+Sentiment Label: negative, Compound Score: 0.0
+Raw output: positive,0.6249
+
+Sentiment Label: positive, Compound Score: 0.6249
+Raw output: Review: 'Great
+Sentiment Label: positive
+Compound Score: 0.6249
+
+Sentiment Label: Review: 'Great
+Sentiment Label: positive
+Compound Score: 0.6249, Compound Score: 
+Raw output: Review: 'Great
+Sentiment Label: positive
+Compound Score: 0.6249
+
+Unexpected output format: Review: 'Great
+Sentiment Label: positive
+Compound Score: 0.6249
+
+Raw output: Review: 'Great!
+Sentiment Label: positive
+Compound Score: 0.6588
+
+Unexpected output format: Review: 'Great!
+Sentiment Label: positive
+Compound Score: 0.6588
+
+Raw output: Review: 'This
+Sentiment Label: neutral
+Compound Score: 0.0
+
+Unexpected output format or empty output: Review: 'This
+Sentiment Label: neutral
+Compound Score: 0.0
+
+Raw output: Review: 'Great!'
+Sentiment Label: positive
+Compound Score: 0.6588
+
+Unexpected output format or empty output: Review: 'Great!'
+Sentiment Label: positive
+Compound Score: 0.6588
+
+Raw output: Review: 'This
+Sentiment Label: neutral
+Compound Score: 0.0
+
+Unexpected output format: Review: 'This
+Sentiment Label: neutral
+Compound Score: 0.0
+
+Final Sentiment Label: neutral, Compound Score: 0.0
+Raw output: Review: 'This
+Sentiment Label: neutral
+Compound Score: 0.0
+
+Unexpected output format: Review: 'This
+Sentiment Label: neutral
+Compound Score: 0.0
+
+Final Sentiment Label: neutral, Compound Score: 0.0
+Raw output: Review: 'awesome!
+Sentiment Label: positive
+Compound Score: 0.6588
+
+Unexpected output format: Review: 'awesome!
+Sentiment Label: positive
+Compound Score: 0.6588
+
+Final Sentiment Label: neutral, Compound Score: 0.0
+Raw output: Review: 'This
+Sentiment Label: negative
+Compound Score: 0.0
+
+Unexpected output format: Review: 'This
+Sentiment Label: negative
+Compound Score: 0.0
+
+Final Sentiment Label: neutral, Compound Score: 0.0
+Raw output: Review: 'This
+Sentiment Label: negative
+Compound Score: 0.0
+
+Unexpected output format: Review: 'This
+Sentiment Label: negative
+Compound Score: 0.0
+
+Final Sentiment Label: neutral, Compound Score: 0.0
+Review text received: 'This
+Raw output: Review: 'This
+Sentiment Label: neutral
+Compound Score: 0.0
+
+Unexpected output format: Review: 'This
+Sentiment Label: neutral
+Compound Score: 0.0
+
+Final Sentiment Label: neutral, Compound Score: 0.0
+Review text received: This movie touched my heart. The themes of love and friendship were beautifully portrayed, and I found myself tearing up multiple times. It reminded me of the importance of cherishing moments with loved ones.
+Raw output: Review: This movie touched my heart. The themes of love and friendship were beautifully portrayed, and I found myself tearing up multiple times. It reminded me of the importance of cherishing moments with loved ones.
+Sentiment Label: positive
+Compound Score: 0.9761
+
+Unexpected output format or empty output: Review: This movie touched my heart. The themes of love and friendship were beautifully portrayed, and I found myself tearing up multiple times. It reminded me of the importance of cherishing moments with loved ones.
+Sentiment Label: positive
+Compound Score: 0.9761
+
+Final Sentiment Label: , Compound Score: 
+Raw output: Review: This movie touched my heart. The themes of love and friendship were beautifully portrayed, and I found myself tearing up multiple times. It reminded me of the importance of cherishing moments with loved ones.
+Sentiment Label: positive, Compound Score: 0.9761
+
+Sentiment Label: positive, Compound Score: 0.9761
+Raw output: Review: "This movie was average. It had its highs and lows, but I wouldn’t watch it again."
+Sentiment Label: neutral, Compound Score: -0.1027
+
+Sentiment Label: neutral, Compound Score: -0.1027
+Raw output: Review: I did not enjoy this movie at all. The plot was boring, and I found the characters uninteresting.
+Sentiment Label: negative, Compound Score: -0.6031
+
+Sentiment Label: negative, Compound Score: -0.6031
